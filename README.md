@@ -1,7 +1,6 @@
 # Movie-Recommendation-System
 A content based movie recommender system using cosine similarity
 
-# Flight Fare Prediction: 
 
 ## Table of Content
   * Demo
