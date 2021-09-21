@@ -21,7 +21,7 @@ For any queries regarding about this project contact me
 Link : https://www.linkedin.com/in/anil-l-b023631b6/
 
 ## Demo
-Heroku Link: [https://mrs-campusx.herokuapp.com]
+Project output demo Link: [https://mrs-campusx.herokuapp.com]
 
 ## Screenshots
 
