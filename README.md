@@ -1,4 +1,5 @@
 # Movie-Recommendation-System
+A content based movie recommender system using cosine similarity
 
 ![Screenshot 2021-09-20 at 1 21 49 AM](https://user-images.githubusercontent.com/71332138/134139635-1ff23997-e557-4fe2-9d65-af098e9e12bd.png)
 
