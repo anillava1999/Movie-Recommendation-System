@@ -71,7 +71,7 @@ For more Details about Cosine Similarity : [https://neo4j.com/docs/graph-data-sc
 ## Database Link : 
 [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/version/1?select=Test_set.xlsx]
 
-# Deploy of heroku tutorial link :
+## Deploy of heroku tutorial link :
 
 [https://www.youtube.com/watch?v=IWWu9M-aisA]
  
