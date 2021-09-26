@@ -99,7 +99,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 
-## Screenshots
+## Screenshots of Project
 
 ![Screenshot 2021-09-20 at 1 21 49 AM](https://user-images.githubusercontent.com/71332138/134139635-1ff23997-e557-4fe2-9d65-af098e9e12bd.png)
 
