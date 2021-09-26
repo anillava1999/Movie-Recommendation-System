@@ -9,7 +9,6 @@ A content based movie recommender system using cosine similarity
   * Data Cleaning
   * Vectorization(Bag of Words)
   * Cosine Similarity
-  * Modeling
   * Deployement on Heroku
   * Installation and Run 
   * Database Link
